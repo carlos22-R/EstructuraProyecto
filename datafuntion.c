@@ -41,3 +41,4 @@ void reverse(int vector[], int tamanio){
         vector[(tamanio - 1) - i] = temp;
     }
 }
+//comentar
